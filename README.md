@@ -246,16 +246,6 @@ api_key_env = "OPENAI_API_KEY"  # переменная окружения с к�
 - **Raw WPM** = (все нажатия / 5) / минуты
 - **Точность** = верные нажатия / все нажатия × 100%
 
-## 🗺️ Дорожная карта
-
-- [ ] темы оформления
-- [ ] плавный курсор как в MonkeyType
-- [ ] режимы punctuation / numbers / capitals
-- [ ] история результатов и графики WPM
-- [ ] конфиг в `~/.config/RustTypingTrainer/`
-- [ ] звуки клавиш
-- [ ] GUI-версия (egui)
-
 ## 🤝 Вклад
 
 Баги, идеи и pull request приветствуются!
@@ -506,16 +496,6 @@ The app appends `/v1` to the base URL when missing and uses:
 - **WPM** = (correct chars / 5) / minutes
 - **Raw WPM** = (all keystrokes / 5) / minutes
 - **Accuracy** = correct keystrokes / all keystrokes × 100%
-
-## 🗺️ Roadmap
-
-- [ ] color themes
-- [ ] smooth caret like MonkeyType
-- [ ] punctuation / numbers / capitals modes
-- [ ] result history and WPM graphs
-- [ ] config in `~/.config/RustTypingTrainer/`
-- [ ] key sounds
-- [ ] GUI version (egui)
 
 ## 🤝 Contributing
 
